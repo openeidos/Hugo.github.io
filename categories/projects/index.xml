@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>projects on Hugo 웹</title>
+    <title>projects on Openeidos GitHub Website</title>
     <link>https://openeidos.github.io/hugo.github.io/categories/projects/</link>
-    <description>Recent content in projects on Hugo 웹</description>
+    <description>Recent content in projects on Openeidos GitHub Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
     <managingEditor>open2idos@gmail.com (openeidos)</managingEditor>
     <webMaster>open2idos@gmail.com (openeidos)</webMaster>
-    <lastBuildDate>Wed, 19 Oct 2016 22:35:00 +0900</lastBuildDate><atom:link href="https://openeidos.github.io/hugo.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 22:35:00 +0900</lastBuildDate><atom:link href="https://openeidos.github.io/hugo.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project Name</title>
-      <link>https://openeidos.github.io/hugo.github.io/project/project_sample/</link>
-      <pubDate>Wed, 19 Oct 2016 22:35:00 +0900</pubDate>
+      <title>Openeidos GitHub Website</title>
+      <link>https://openeidos.github.io/hugo.github.io/project/20220325-welcome_to_openeidos/</link>
+      <pubDate>Fri, 25 Mar 2022 22:35:00 +0900</pubDate>
       <author>open2idos@gmail.com (openeidos)</author>
-      <guid>https://openeidos.github.io/hugo.github.io/project/project_sample/</guid>
-      <description>Write your content.
-폴더를 이용한 글입니다.</description>
+      <guid>https://openeidos.github.io/hugo.github.io/project/20220325-welcome_to_openeidos/</guid>
+      <description>Welcome to openeidos github website.
+This blog will update development articles.
+I hope it can be of little help to developers.
+Thank you for finding it.</description>
     </item>
     
   </channel>

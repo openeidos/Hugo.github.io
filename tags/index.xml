@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo 웹</title>
+    <title>Tags on Openeidos GitHub Website</title>
     <link>https://openeidos.github.io/hugo.github.io/tags/</link>
-    <description>Recent content in Tags on Hugo 웹</description>
+    <description>Recent content in Tags on Openeidos GitHub Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
     <managingEditor>open2idos@gmail.com (openeidos)</managingEditor>
     <webMaster>open2idos@gmail.com (openeidos)</webMaster>
-    <lastBuildDate>Thu, 24 Mar 2022 12:20:25 +0900</lastBuildDate><atom:link href="https://openeidos.github.io/hugo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Mar 2022 12:20:25 +0900</lastBuildDate><atom:link href="https://openeidos.github.io/hugo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo</title>
       <link>https://openeidos.github.io/hugo.github.io/tags/hugo/</link>
-      <pubDate>Thu, 24 Mar 2022 12:20:25 +0900</pubDate>
+      <pubDate>Sun, 27 Mar 2022 12:20:25 +0900</pubDate>
       <author>open2idos@gmail.com (openeidos)</author>
       <guid>https://openeidos.github.io/hugo.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>java</title>
-      <link>https://openeidos.github.io/hugo.github.io/tags/java/</link>
-      <pubDate>Thu, 24 Mar 2022 12:20:25 +0900</pubDate>
+      <title>JBrowser</title>
+      <link>https://openeidos.github.io/hugo.github.io/tags/jbrowser/</link>
+      <pubDate>Sun, 27 Mar 2022 12:20:25 +0900</pubDate>
       <author>open2idos@gmail.com (openeidos)</author>
-      <guid>https://openeidos.github.io/hugo.github.io/tags/java/</guid>
+      <guid>https://openeidos.github.io/hugo.github.io/tags/jbrowser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project</title>
       <link>https://openeidos.github.io/hugo.github.io/tags/project/</link>
-      <pubDate>Thu, 24 Mar 2022 12:20:25 +0900</pubDate>
+      <pubDate>Sun, 27 Mar 2022 12:20:25 +0900</pubDate>
       <author>open2idos@gmail.com (openeidos)</author>
       <guid>https://openeidos.github.io/hugo.github.io/tags/project/</guid>
       <description></description>
@@ -39,7 +39,7 @@
     <item>
       <title>tag</title>
       <link>https://openeidos.github.io/hugo.github.io/tags/tag/</link>
-      <pubDate>Thu, 24 Mar 2022 12:20:25 +0900</pubDate>
+      <pubDate>Sun, 27 Mar 2022 12:20:25 +0900</pubDate>
       <author>open2idos@gmail.com (openeidos)</author>
       <guid>https://openeidos.github.io/hugo.github.io/tags/tag/</guid>
       <description></description>
@@ -48,7 +48,7 @@
     <item>
       <title>theme</title>
       <link>https://openeidos.github.io/hugo.github.io/tags/theme/</link>
-      <pubDate>Thu, 24 Mar 2022 12:20:25 +0900</pubDate>
+      <pubDate>Sun, 27 Mar 2022 12:20:25 +0900</pubDate>
       <author>open2idos@gmail.com (openeidos)</author>
       <guid>https://openeidos.github.io/hugo.github.io/tags/theme/</guid>
       <description></description>
@@ -57,7 +57,7 @@
     <item>
       <title>openeidos</title>
       <link>https://openeidos.github.io/hugo.github.io/tags/openeidos/</link>
-      <pubDate>Wed, 23 Mar 2022 23:35:00 +0900</pubDate>
+      <pubDate>Fri, 25 Mar 2022 22:35:00 +0900</pubDate>
       <author>open2idos@gmail.com (openeidos)</author>
       <guid>https://openeidos.github.io/hugo.github.io/tags/openeidos/</guid>
       <description></description>
